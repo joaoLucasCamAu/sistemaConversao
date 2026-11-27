@@ -1,0 +1,23 @@
+ID_Fabricante,Nome_Fabricante,Pais_Origem,Site_Oficial,Categoria_de_Atuacao,Observacoes
+FAB-001,LS Electric,Coreia do Sul,https://www.lselectric.co.kr,Automacao & Acionamentos,"Líder sul-coreana em CLPs, inversores de frequência série G100/iG5A, IHMs e baixa/média tensão"
+FAB-002,SICK,Alemanha,https://www.sick.com,Sensores & Seguranca Industrial,"Referência global em sensoriamento óptico, indutivo, scanners a laser de segurança e sistemas de visão"
+FAB-003,Schneider Electric,Franca,https://www.se.com,Automacao & Distribuicao de Energia,"Fabricante global de CLPs Modicon, inversores Altivar e soluções de gestão de energia EcoStruxure"
+FAB-004,Siemens,Alemanha,https://www.siemens.com,Automacao Industrial & Digitalizacao,"Líder mundial com ecossistema SIMATIC (S7-1200/1500), inversores SINAMICS e plataforma TIA Portal"
+FAB-005,WEG,Brasil,https://www.weg.net,"Motores, Inversores & Automacao","Maior fabricante da América Latina em motores elétricos, inversores CFW e automação industrial integrada"
+FAB-006,Omron,Japao,https://www.omron.com,Automacao & Deteccao,"Especialista em sensoriamento avançado, segurança de máquinas, robótica industrial e CLPs Sysmac"
+FAB-007,Rockwell Automation,EUA,https://www.rockwellautomation.com,Automacao Industrial & Arquitetura Integrada,"Proprietária da marca Allen-Bradley, CLPs ControlLogix/CompactLogix e inversores PowerFlex"
+FAB-008,Pepperl+Fuchs,Alemanha,https://www.pepperl-fuchs.com,Sensores Industriais & Protecao Ex,Pioneira em sensores de proximidade indutivos e soluções de segurança intrínseca para atmosferas explosivas
+FAB-009,IFM,Alemanha,https://www.ifm.com,Sensores Industriais & Comunicacao IO-Link,"Especialista em sensores de processo, posição, condição de máquinas e mestres/dispositivos IO-Link"
+FAB-010,Balluff,Alemanha,https://www.balluff.com,Sensores & Redes Industriais,"Portfólio de sensores de precisão, transdutores lineares, sistemas RFID e módulos de rede descentralizados"
+FAB-011,Keyence,Japao,https://www.keyence.com,"Sensores, Visao & Medicao","Tecnologia de ponta em sensores fotoelétricos, perfilômetros a laser, leitores de código e sistemas de visão"
+FAB-012,Banner Engineering,EUA,https://www.bannerengineering.com,Sensores Fotoeletricos & Seguranca,"Fabricante consolidado de barreiras de luz, sensores fotoelétricos, iluminação e sinalização industrial"
+FAB-013,Turck,Alemanha,https://www.turck.com,Sensores & Conectividade Industrial,"Soluções em sensores, conectividade para barramentos de campo, módulos I/O robustos IP67 e RFID"
+FAB-014,Outros,Global,Nao Informado,Diversos Componentes de Automacao,Categoria genérica reservada para fabricantes terceiros e componentes legados de mercado
+FAB-015,ABB,Suica,https://www.abb.com,"Automacao, Drives & Robotica","Líder global em acionamentos (inversores ACS550/ACS580/ACS880), motores elétricos, robótica industrial e eletrificação"
+FAB-016,Danfoss,Dinamarca,https://www.danfoss.com,Acionamentos & Controle de Energia,"Especialista em inversores de frequência das linhas VLT (FC 51/FC 301/FC 302) e VACON, além de soluções de climatização e eficiência energética"
+FAB-017,Yaskawa,Japao,https://www.yaskawa-global.com,"Drives, Motion & Robotica","Referência mundial em inversores de frequência (séries J1000, V1000, A1000, CR700), servoacionamentos e robôs industriais Motoman"
+FAB-018,Mitsubishi Electric,Japao,https://www.mitsubishielectric.com,Automacao Industrial & Acionamentos,"Fabricante de inversores de frequência FREQROL (FR-D700/CS80/A800/F800), CLPs MELSEC, servos MELSERVO e IHMs"
+FAB-019,Delta Electronics,Taiwan,https://www.deltaww.com,Automacao Industrial & Eletronica de Potencia,"Fornecedor global de inversores de frequência (séries VFD-E/MS300), CLPs DVP/AS, IHMs DOP e soluções de controle de movimento"
+FAB-020,Inovance,China,https://www.inovance.com,Automacao Industrial & Drives,"Líder chinesa em inversores de frequência (MD200/MD500), servoacionamentos, CLPs, controle de movimento e robótica industrial"
+FAB-021,INVT,China,https://www.invt.com,Acionamentos & Automacao Industrial,"Especialista em inversores de frequência (linhas Goodrive GD20/GD27/GD350), servossistemas, CLPs e soluções de energia"
+FAB-022,Fuji Electric,Japao,https://www.fujielectric.com,"Drives, Controle & Energia","Tradicional fabricante japonesa de inversores de frequência FRENIC, CLPs, IHMs, servomotores e componentes de baixa tensão"
